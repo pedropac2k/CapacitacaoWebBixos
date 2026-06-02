@@ -1,0 +1,29 @@
+h1{
+    color: crimson;
+}
+
+#main-container{
+    margin-left: 40%;
+}
+
+#div1{
+    border: 1px solid black;
+    margin-right: 80%;
+    background-color: aqua;
+}
+
+#div2{
+    border: 1px solid black;
+    margin-right: 80%;
+    background-color: brown;
+}
+
+button{
+    background-color: rgb(11, 175, 25);
+}
+
+footer{
+    margin-left: 40%;
+    margin-top: 1rem;
+    align-content: center;
+}
