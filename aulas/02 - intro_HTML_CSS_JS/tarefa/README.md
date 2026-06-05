@@ -18,7 +18,7 @@ O objetivo desta atividade é praticar conceitos fundamentais de JavaScript vist
 
 
 
-![Página Inicial](/imagens/pagina-inicial.png)
+(/imagens/pagina-inicial.png)
 
 
 ---
@@ -27,7 +27,7 @@ O objetivo desta atividade é praticar conceitos fundamentais de JavaScript vist
 
 
 
-![Página Alterada](/imagens/pagina-alterada.png)
+(/imagens/pagina-alterada.png)
 
 
 ---
