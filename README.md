@@ -5,5 +5,7 @@
    ## 📌 Sumário das Aulas
    * [Aula 1: Preparação do Ambiente](./aulas/01-ambiente/README.md)
    * [Aula 2: Introdução a Programação Web](./aulas/02-intro_HTML_CSS_JS/README.md)
-      * [Exemplo feito em sala](./aulas/02-intro_HTML_CSS_JS/exemplo)
-      * [Tarefa Proposta](./aulas/02-intro_HTML_CSS_JS/tarefa/README.md)
+      * [Exemplo](./aulas/02-intro_HTML_CSS_JS/exemplo)
+      * [Tarefa](./aulas/02-intro_HTML_CSS_JS/tarefa/README.md)
+   * [Aula 3: Manipulação DOM || Flex Box || Utilizando Imagens e Fontes](./aulas/03-aula_3/README.md)
+      * [Exemplo](./aulas/03-aula_3/exemplo/)
