@@ -1,0 +1,16 @@
+#container-1{
+    border: 1px solid black;
+    margin-right: 45%;
+    margin-left: 45%;
+}
+
+main{
+    text-align: center;
+}
+
+button{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
