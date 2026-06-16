@@ -11,4 +11,7 @@
    * [Aula 3: Manipulação DOM || Flex Box || Utilizando Imagens e Fontes](./aulas/03-aula_3/README.md)
       * [Exemplo](./aulas/03-aula_3/exemplo/)
       * [Tarefa](./aulas/03-aula_3/tarefa/README.md)
+   * [Aula 4: Requisições em API](./aulas/04-aula_4)
+      * [Exemplo](./aulas/04-aula_4/exemplo/)
+      * [Tarefa](./aulas/04-aula_4/tarefa/README.md)
 

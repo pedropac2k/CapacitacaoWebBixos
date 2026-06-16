@@ -1,0 +1,81 @@
+*{
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 500;
+  font-style: normal;
+}
+
+body{
+    background-color: rgb(23, 211, 23);
+}
+
+#main-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#logo{
+    width: 20%;
+}
+
+h1 {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 500%;
+}
+
+#omnitrix{
+    height: 8rem;
+    margin-right: 2rem;
+}
+
+#titulo-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(23, 211, 23);
+    width: 100%;
+}
+
+#btn-alien{
+    padding: .5rem;
+    background-color: white;
+    border-radius: 1rem;
+    font-size: medium;
+    margin-top: 1rem;
+}
+
+#aliens-container {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%; 
+    margin-top: 3rem;
+    width: 1200px;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: white;
+    margin-top: 2rem;
+    margin-right: 1rem;
+    width:fit-content;
+    padding: 1rem;
+    border-radius: 1rem;
+    border: .5rem solid green;
+}
+
+.img-alien{
+    background-color: rgba(204, 203, 203, 0.822);
+    padding: 1rem;
+    border-radius: 1rem;
+    max-width: 200px;
+}
+
+.btn-dlt{
+    height: 2rem;
+    width: 4rem;
+    background-color: rgb(235, 35, 35);
+    border-radius: 1rem;
+}
